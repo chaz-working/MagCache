@@ -78,7 +78,7 @@ If you develop/use MagCache in your projects and you would like more people to s
 
 ## 🎉 Supported Models 
 **Text to Video**
-- [MagCache4Wan2.1](./MagCache4Wan2.2/README.md)
+- [MagCache4Wan2.2](./MagCache4Wan2.2/README.md)
 - [MagCache4Wan2.1](./MagCache4Wan2.1/README.md)
 - [MagCache4HunyuanVideo](./MagCache4HunyuanVideo/README.md)
 - [MagCache4Open-Sora](./eval/MagCache/README.md)
